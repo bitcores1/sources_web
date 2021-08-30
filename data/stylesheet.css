@@ -1,0 +1,135 @@
+@font-face {
+	font-family: 'Mont';
+	src: url('font.ttf');
+}
+*{
+	font-family: 'Mont';
+	background:#f0f0f0;
+	
+	
+}
+.data-image-index-logo {
+margin-top: 50px;
+margin-left: 50px;
+
+}
+.navigation-bar {
+	margin-top: -40px;
+	font-size: 30px;
+margin-left:  750px;
+}
+.navigation-bar > a + a {
+	margin-left: 20px;
+}
+.navigation-bar > a {
+	text-decoration: none;
+	color: #7302CF;
+}
+.contains-index {
+	margin-left: -10;
+	height: 75px;
+	width: 102%;
+	margin-top: 107px;
+	background: white;
+	display: flex;
+	
+}
+.on-ci {background: white;}
+.thevoid {
+	height: 10px;
+	width: 100%;
+
+}
+a {
+	color: #7302CF;
+	text-decoration: none;
+}
+.drygnbase {
+ margin-left: 100px;
+
+ border: 3px solid #adadad;
+ border-radius: 10px;
+ 
+ height: 300px;
+ width: 800px;
+}
+.titlesdiv {
+ height: 3px;
+ width: 801px;
+ background: #adadad;
+ margin-top: 1px;
+}
+.onindex {margin-left: 50px;}
+.sse {margin-left: 10px;}
+.scew {margin-left: 50px;margin-top: 100px; font-size: 50px;    background: #f0f0f0;}
+.as {
+	transform: rotate(270deg);
+  -ms-transform: rotate(270deg);
+  -moz-transform: rotate(270deg);
+  -webkit-transform: rotate(270deg);
+  -o-transform: rotate(270deg);
+  margin-top: 100px;
+  margin-left: -60px;
+}
+.cfc {
+	margin-left:50px;
+
+}
+.red_sus  {
+	margin-left:50px;
+    
+
+}
+
+.red_sus {}
+.ver {height: 300;width: 1px;background: black; margin-left:350px;
+
+	margin-top: -320px;
+
+}
+.sd {color: #7302CF;}
+.dsjd {
+	margin-left: 50px;
+	margin-top: 3px;
+	background: #7302CF;
+	width: 375px;
+	height: 3px;
+}
+.ds9 {
+	
+	width: 200px;
+	margin-left: 50px;
+}
+.ds993 {
+	
+	margin-left: 50px;
+	width: 390;
+}
+.ds21e {
+	
+	margin-left: 50px;
+}
+.dsd {
+	width: 600px;
+	margin-left: 50px;
+}
+.platfrom0 {color: red;}
+.plofco  {color: #03c2fc;}
+.spsm {color: red;}
+.sfcd {margin-left: -3px;}
+.s98w {margin-left: 150px;display: flex;}
+.ssxs {
+	margin-top: -5px;
+}
+.assi {
+	
+	margin-top: 3px;
+	background: #7302CF;
+	width: 100%px;
+	height: 3px;
+
+}
+.thevoid-w {
+	width:30px ;
+	height: 20px;
+}
